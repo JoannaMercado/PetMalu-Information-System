@@ -5,9 +5,9 @@ RFID-enabled Application-Based Information System for PetMalu Animal Clinic that
 
 This project is an Application-Based Information System designed for PetMalu Animal Clinic that integrates RFID technology for fast and reliable pet identification.
 
-Each pet is assigned a unique RFID tag linked to its digital medical record. Upon scanning, the system automatically retrieves:
+Each pet is assigned a **unique RFID tag** linked to its digital medical record. Upon scanning, the system automatically retrieves:
 
-Pet profile information
+**Pet profile information
 
 Owner details
 
@@ -17,6 +17,6 @@ Deworming history
 
 Surgery history
 
-Visit logs
+Visit logs**
 
 The system reduces manual record searching, minimizes errors, and improves overall clinic efficiency.
